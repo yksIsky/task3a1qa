@@ -1,0 +1,23 @@
+{
+  "URL":
+  [
+
+    {
+      "id": 1,
+      "pageName": "demoqa",
+      "description": "main page",
+      "url": "https://demoqa.com/"
+    }
+  ],
+    "Browser":
+    [
+      {
+        "id": 1,
+        "BrowserName": "Chrome"
+      },
+      {
+        "id": 2,
+        "BrowserName": "Firefox"
+      }
+    ]
+}

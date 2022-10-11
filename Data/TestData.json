@@ -1,0 +1,1 @@
+{"Person": [], "Wait": [{"id": 1, "Wait": 10}, {"id": 2, "Wait": 20}], "DDT": [{"id": 1, "is_alerts_clicked": "Alerts", "is_alert_open": "You clicked a button", "is_alert_open_confirm_box": "Do you confirm action?", "is_alert_open_please_enter_your_name": "Please enter your name", "is_dislayed_you_selected_ok": "You selected Ok", "is_open": "True"}]}

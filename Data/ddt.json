@@ -1,0 +1,6 @@
+{
+  "Test1":[
+  { "name": "Jon", "surname": "Snow", "email": "knownothing@gmail.com", "age": "30", "salary": "3000", "department": "alpha"},
+  { "name": "Buttercup", "surname": "Cumbersnatch", "email": "BudapestCandygram@mail.io", "age": "41", "salary": "2000", "department": "beta"}
+  ]
+}
